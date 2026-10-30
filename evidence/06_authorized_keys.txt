@@ -1,0 +1,1 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOfcDW2kWkxo1EKBoaQR4XIZ2VVNMyRZibkgll/Gz4Db fa24b1-se-066@fjwu.edu.pk
